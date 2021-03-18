@@ -1,7 +1,6 @@
 {
   "name": "qingsong-assets",
   "version": "0.0.1",
-  "private": true,
   "description": "青松校园app，pc共用静态文件，包含图片，字体，全局主题",
   "author": "何彬"
 }
